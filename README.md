@@ -1,1 +1,1 @@
-# AI-Powered-Air-Quality-and-Disease-Predictor
+Developed a hybrid ML model using SVM and Naive Bayes to predict air quality levels and pollution-related health risks. Designed an AI-powered interactive map for real-time updates, integrating geospatial visualization for better monitoring. Enhanced forecast accuracy with advanced ML techniques, improving public health awareness and proactive environmental management.
